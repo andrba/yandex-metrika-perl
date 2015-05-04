@@ -1,6 +1,6 @@
 # NAME
 
-Yandex::Metrika - It's module to get access to Yandex.Metrika API via OAuth
+Yandex::Metrika - It's a module to get access to Yandex.Metrika API via OAuth
 
 # SYNOPSIS
 
@@ -23,7 +23,7 @@ Yandex::Metrika - It's module to get access to Yandex.Metrika API via OAuth
 
 # DESCRIPTION
 
-Yandex::Metrika is using Yandex::OAuth::Client as base class to get access.
+Yandex::Metrika is using Yandex::OAuth::Client as a base class to get access.
 API methods are mapped to object methods.
 See api docs for parameters and response formats at https://tech.yandex.ru/metrika/doc/ref/stat/api-stat-method-docpage/
 
